@@ -1,0 +1,61 @@
+body{
+    color: #c7a07a;
+    background-image: url("beans.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#coffee{
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+.prices{
+    width: 300px;
+    /* border: 5px solid #c7a07a; */
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #c7a07a;
+    margin-left: 200px;
+    margin-bottom: 70px;
+    display:inline-block;
+    vertical-align: top;
+}
+.c01{
+    color: #332421;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold; 
+}
+.card{
+    text-decoration: none;
+}
+.c02{
+    font-family:'Times New Roman', Times, serif;
+    color: #332421;
+    font-weight: bold;
+    font-size: small;
+}
+#order{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.button{
+    background-color: #332421;
+    color:#c7a07a;
+}
+.desc{
+    display: inline-block;
+    vertical-align: top;
+}
+#desc{
+    background-color: #c7a07a;
+    border-radius: 15px;
+    padding: 80px;
+    padding-top: 30px;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.heading{
+    color: #332421;
+}
